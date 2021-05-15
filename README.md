@@ -6,8 +6,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <!-- all-shields/my-badges:END -->
 
-# Simple App React 
-This app is a simple test of React
+# Practice - Simple App React 
+This app is started from [Simple App React](https://github.com/Magicianred/react-simple-app), a simple test of React.
+
+## A way to practice
+To practice try to convert this application into modern react (functional component)
+
+1. fork this repo
+2. use modern react (React version >= 16)
+- convert all React class component into functional component
+- use hook use hooks instead of lifecycle function
+
+
+# Simple App React
 
 ## Available Scripts
 
