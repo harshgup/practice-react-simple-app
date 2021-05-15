@@ -17,6 +17,8 @@ To practice try to convert this application into modern react (functional compon
 - convert all React class component into functional component
 - use hook use hooks instead of lifecycle function
 
+At the end, if you want, you can create a PR and ask me to check your work :)
+
 
 # Simple App React
 
